@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://ozgur-aksoy.github.io/sitemap.xml
+Sitemap: https://ozgur-aksoy.com/sitemap.xml
