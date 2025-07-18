@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-<!-- subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc. -->
+subtitle: <a href='#'>My Academic Website</a>.
 
 profile:
   align: right
