@@ -221,6 +221,16 @@ defaults:
       path: "assets"
     values:
       sitemap: false
+  - scope:
+      path: ""
+      type: projects
+    values:
+      search: false
+  - scope:
+      path: ""
+      type: news
+    values:
+      search: false
 
 sass:
   style: compressed
