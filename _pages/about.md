@@ -9,8 +9,8 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>800 W Campbell Rd.</p>
-    <p>Richardson, TX 75080</p>
+    <p></p> # insert address here 1st line
+    <p></p># insert address here 2st line
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -28,9 +28,6 @@ latest_posts:
 
 this page is under construction.
 
-this page is under construction.
-
-this page is under construction.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder. -->
 
