@@ -6,4 +6,4 @@ nav: true
 nav_order: 2
 ---
 
-[📄 Please click here to download my academic CV (PDF)](/assets/pdf/Ozgur_Aksoy_CV_website.pdf)
+[📄 Please click here to view my academic CV.](/assets/pdf/Ozgur_Aksoy_CV_website.pdf)
