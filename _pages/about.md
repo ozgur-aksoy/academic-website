@@ -24,7 +24,11 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-I am a Ph.D. candidate in Information Systems at the University of Texas at Dallas. My research explores how artificial intelligence  shapes decision-making in healthcare, with a focus on cost efficiency, equity, and care quality. I apply machine learning, econometrics, and design science to build sociotechnical systems that work in practice.
+I am a Ph.D. candidate in Information Systems at the Naveen Jindal School of Management, The University of Texas at Dallas.
+<br>
+My research explores how artificial intelligence shapes decision-making in healthcare, with a focus on cost efficiency, equity, and care quality. 
+<br>
+I apply machine learning, econometrics, and design science to build sociotechnical systems that work in practice.
 <br><br>
 [📄 Please click here to view my academic CV.](/assets/pdf/Ozgur_Aksoy_CV_website.pdf)
 
