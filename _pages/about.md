@@ -1,7 +1,7 @@
 ---
 layout: about
 title: about
-permalink: /
+permalink: "/"
 
 profile:
   align: right
@@ -25,6 +25,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 I am a Ph.D. candidate in Information Systems at the University of Texas at Dallas. My research explores how artificial intelligence  shapes decision-making in healthcare, with a focus on cost efficiency, equity, and care quality. I apply machine learning, econometrics, and design science to build sociotechnical systems that work in practice.
+<br><br>
 [📄 Please click here to view my academic CV.](/assets/pdf/Ozgur_Aksoy_CV_website.pdf)
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder. -->
