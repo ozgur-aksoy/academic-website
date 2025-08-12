@@ -2,8 +2,8 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>**Welcome to my website!**</a>.
-subtitle: <a href='#'>I am a Ph.D. candidate in Information Systems at the University of Texas at Dallas. My research explores how artificial intelligence  shapes decision-making in healthcare, with a focus on cost efficiency, equity, and care quality. I apply machine learning, econometrics, and design science to build sociotechnical systems that work in practice.</a>
+
+subtitle: "**I am a Ph.D. candidate in Information Systems at the University of Texas at Dallas. My research explores how artificial intelligence  shapes decision-making in healthcare, with a focus on cost efficiency, equity, and care quality. I apply machine learning, econometrics, and design science to build sociotechnical systems that work in practice.**"
 
 
 profile:
