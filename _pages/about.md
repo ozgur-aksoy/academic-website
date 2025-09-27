@@ -24,6 +24,7 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+
 I am a Ph.D. candidate in Information Systems at the Naveen Jindal School of Management, UT Dallas. My research examines how artificial intelligence shapes decision-making in healthcare, with an emphasis on cost efficiency, equity, and care quality. I apply machine learning, design science, and econometrics to develop sociotechnical systems that advance both theory and practice.
 <br><br><br>
 
