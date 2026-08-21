@@ -25,7 +25,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a Ph.D. candidate in Information Systems at the Naveen Jindal School of Management, UT Dallas. My research examines how artificial intelligence shapes decision-making in healthcare, with an emphasis on cost efficiency, equity, and care quality. I apply machine learning, design science, and econometrics to develop sociotechnical systems that advance both theory and practice.
+I am an Assistant Professor in the Department of Information and Operations Management at the Mays Business School, Texas A&M University. My research examines how artificial intelligence shapes decision-making in healthcare, with an emphasis on cost efficiency, equity, and care quality. I apply machine learning, design science, and econometrics to develop sociotechnical systems that advance both theory and practice.
 <br><br><br>
 
 [📄 Please click here to view my academic CV.](/assets/pdf/Ozgur_Aksoy_CV_website.pdf)
